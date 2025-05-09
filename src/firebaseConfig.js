@@ -1,0 +1,1 @@
+// Aquí irá la configuración de Firebase una vez la tengas
